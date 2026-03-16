@@ -13,6 +13,7 @@
 <p align="center">
   Hola, Hi, Hallo, Bonjour! Soy Alex Burcea, Analista de Datos, Desarrollador de Páginas Web & Software, con un toque de Ciberseguridad
   <br>
+  <hr>
   <br>
   🔬 Actualmente me encuentro estudiando una FP en Desarrollo de Aplicaciones Multiplataforma & una Ingeniería Electrónica y de Sistemas Embebidos
   <br>
